@@ -10,6 +10,7 @@ We are in charge of keeping track and organizing the overall files that the
 project is going to utilize.
 
 Familiarization:
+
 Git
 
 Working Repository
