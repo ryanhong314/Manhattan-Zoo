@@ -11,6 +11,9 @@ project is going to utilize.
 
 Familiarization:
 Git
+
 Working Repository
+
 Staging Area
+
 Repository
