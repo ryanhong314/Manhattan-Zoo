@@ -1,18 +1,18 @@
 //Initialize a new git repository
-$git init
+$ git init
 
 //Check the status of the repository
-$git status
+$ git status
 
 //Add meal-regimens.txt to the staging area
-$git add meal-regmins.txt
+$ git add meal-regmins.txt
 
 //Make a commit
-$git commit -m "add meal-regiment file to repo"
+$ git commit -m "add meal-regiment file to repo"
 
 //Add meal-regimens.txt to the staging area
-$git add meal-regimens.txt
-$git status
+$ git add meal-regimens.txt
+$ git status
 
 //Check the status of the git projecy
 $ git commit -m "modify file"
@@ -21,11 +21,11 @@ $ git commit -m "modify file"
 $ git log
 
 //Include two more reports and a new commit for each one 
-$git add meal-regimens.txt
-$git commit -m "add poison dart frogs"
+$ git add meal-regimens.txt
+$ git commit -m "add poison dart frogs"
 
-$git add meal-regimens.txt
-$git commit -m "add western lowland gorilla"
+$ git add meal-regimens.txt
+$ git commit -m "add western lowland gorilla"
 
 //Check your work
-$git log
+$ git log
